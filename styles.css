@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:flex-box;
+	display:flex;
 	text-position:center;
 	width:100px;
 	height:100px;
