@@ -2,7 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	text-position:center;
+	justify-content:center;
+	align-items:center;
 	width:100px;
 	height:100px;
 	background-color:red;
